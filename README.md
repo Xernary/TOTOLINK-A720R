@@ -6,14 +6,10 @@
 
 
 
-**Vendor:** TOTOLINK
-
-**Vendor's website:** [TOTOLINK](https://www.totolink.net/)
-
-**Model:** A720R
-
-**Firmware version:** V4.1.5cu.630_B20250509
-
+**Vendor:** TOTOLINK </br>
+**Vendor's website:** [TOTOLINK](https://www.totolink.net/) </br>
+**Model:** A720R </br>
+**Firmware version:** V4.1.5cu.630_B20250509 </br>
 **Firmware download address:** [TOTOLINK](https://www.totolink.net/home/menu/detail/menu_listtpl/download/id/203/ids/36.html)
 
 
@@ -55,7 +51,7 @@ Log in the control panel
 
 ![](imgs/1.jpeg)
 
-The script will intercept and print the credentials
+The script intercepts and prints the credentials
 
 ![](imgs/2.jpeg)
 
