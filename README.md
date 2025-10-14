@@ -53,11 +53,11 @@ sudo python3 poc.py <interface> <victim_ip> <repeater_ip>
 
 Log in the control panel
 
-![](imgs/1.png)
+![](imgs/1.jpeg)
 
 The script will intercept and print the credentials
 
-![](img/2.png)
+![](imgs/2.jpeg)
 
 
 
