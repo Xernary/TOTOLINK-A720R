@@ -40,20 +40,5 @@ Connection: keep-alive
 ```
 An attacker can intercept and use the credentials to obtain admin access to the router.
 
-## POC
-
-Run the poc.py
-```
-sudo python3 poc.py <interface> <victim_ip> <repeater_ip>
-```
-
-Log in the control panel
-
-![](imgs/1.jpeg)
-
-The script intercepts and prints the credentials
-
-![](imgs/2.jpeg)
-
 
 
