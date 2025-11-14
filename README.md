@@ -1,4 +1,4 @@
-# TOTOLINK-A720R
+# CVE-2025-63820
 
 ## Submitter: Nicola Giuffrida
 
